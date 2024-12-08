@@ -16,12 +16,9 @@ body {
   margin-right: auto;
 }
 
-header {
+.intro-chunk {  
   margin-top: 96px;
   padding-bottom: 64px;
-}
-
-.intro-chunk {  
   font-weight: 400;
 }
 
