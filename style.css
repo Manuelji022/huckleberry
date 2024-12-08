@@ -11,25 +11,25 @@ body {
 
 /* Add styles here! */
 .max-width-wrapper {
-  max-width: 800px;
-  min-width: 342px;
+  width: 800px;
   margin-left: auto;
   margin-right: auto;
 }
 
-.intro-chunk {
+header {
   margin-top: 96px;
   padding-bottom: 64px;
-  font-weight: 400;
 }
 
+.intro-chunk {  
+  font-weight: 400;
+}
 
 main {
   background-color: hsl(0deg, 0%, 40%);
   border-top: 8px solid hsl(0deg, 0%, 60%);
   padding-top: 64px;
   padding-bottom: 58px;
-  min-width: min-content;
 }
 
 .intro-chunk strong {
