@@ -11,9 +11,10 @@ body {
 
 /* Add styles here! */
 .max-width-wrapper {
-  width: 800px;
+  max-width: 800px;
   margin-left: auto;
   margin-right: auto;
+  padding-inline: 24px;
 }
 
 .intro-chunk {  
