@@ -26,8 +26,7 @@ body {
 main {
   background-color: hsl(0deg, 0%, 40%);
   border-top: 8px solid hsl(0deg, 0%, 60%);
-  padding-top: 64px;
-  padding-bottom: 58px;
+  padding: 64px;
 }
 
 .intro-chunk strong {
